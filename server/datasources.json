@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "digital_garage_db": {
+    "host": "ds059125.mongolab.com",
+    "port": 59125,
+    "database": "digital_garage",
+    "password": "Audatex8020!",
+    "name": "digital_garage_db",
+    "user": "solera",
+    "connector": "mongodb"
+  }
+}
